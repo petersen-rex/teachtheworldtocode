@@ -1,5 +1,5 @@
 # Site
-name: OpenElastic
+name: OpenElastic AWS cloud migration experts
 description: OpenElastic cloud migration experts
 meta_description: "OpenElastic AWS cloud migration experts"
 logo: 'assets/images/logo.png'
@@ -13,14 +13,14 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  rex:
+    name: Rex
+    display_name: Rex
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
+    email: petersen.rex@gmail.com
+    web: http://openelastic.com
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "AWS cloud migration enabler."
   john:
     name: John
     display_name: John

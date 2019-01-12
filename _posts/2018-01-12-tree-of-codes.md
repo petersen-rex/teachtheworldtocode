@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tree of Codes"
-author: Rex
+author: rex
 categories: [ aws, serverless ]
 image: assets/images/2.jpg
 featured: true
