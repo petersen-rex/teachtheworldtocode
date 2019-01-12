@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Tree of Codes"
-author: sal
-categories: [ Jekyll, tutorial ]
+author: Rex
+categories: [ aws, serverless ]
 image: assets/images/2.jpg
 featured: true
 
