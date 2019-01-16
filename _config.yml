@@ -5,7 +5,7 @@ meta_description: "OpenElastic AWS cloud migration experts"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: 
+baseurl: www.openelastic.com/
 email: 'openelastic@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'openelastic'
