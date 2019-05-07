@@ -4,6 +4,7 @@ title:  "Serverless Example"
 author: rex
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
+featured: true
 ---
 This example demonstrates how to utilize a lambda function to provide `serverless` functionality in a `static web site`
 
