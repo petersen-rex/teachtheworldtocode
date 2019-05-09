@@ -2,7 +2,7 @@
 layout: post
 title:  "Serverless Example"
 author: rex
-categories: [ Jekyll, tutorial ]
+categories: [ AWS, Serverless, tutorial ]
 image: assets/images/1.jpg
 featured: true
 ---
