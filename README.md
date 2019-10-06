@@ -85,4 +85,4 @@ Copyright (C) 2018 WowThemes.net.
 
 - Clone the repo.
 - Create a branch off of master and give it a meaningful name (e.g. my-new-affiliates-feature).
-- Open a pull request on GitHub and describe the feature or fix.
+- Open a pull request on GitHub and describe the feature or fix.# teachtheworldtocode
