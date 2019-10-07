@@ -1,14 +1,14 @@
 # Site Rex
-name: OpenElastic AWS cloud migration experts
-description: OpenElastic cloud migration experts
-meta_description: "OpenElastic AWS cloud migration experts"
+name: Teach The World to Code
+description: Resources and instruction for elementary and secondary computer science education
+meta_description: "Coding Instruction Education Elementary Secondary"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl:
-email: 'openelastic@gmail.com'
+email: 'help@TeachTheWorldToCode.org'
 google_analytics: 'UA-46278016-1'
-disqus: 'openelastic'
+disqus: 'teachtheworldtocode'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 callout_background_color: '#00a9ec'
 
