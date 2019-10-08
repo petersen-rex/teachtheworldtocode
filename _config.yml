@@ -2,7 +2,7 @@
 name: Teach The World to Code
 description: Resources and instruction for elementary and secondary computer science education
 meta_description: "Coding Instruction Education Elementary Secondary"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/ttwtc-logo-wtext.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl:
