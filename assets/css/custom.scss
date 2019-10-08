@@ -1,6 +1,7 @@
 ---
 # Lets add a comment to make this file sass-y.
 # Change this file for any custom CSS.
+# Ocean blue color pallete: #001a33, #003366, #004080, #0059b3, #0066cc
 ---
 // Import partials from `sass_dir` (defaults to `_sass`)
 
@@ -14,4 +15,15 @@
 
 div.wrapintro h1 {
 	font-size: 2rem;
+}
+
+div.wrapintro {
+	background: #003366;
+	border-radius: 200px;
+	color: antiquewhite;
+}
+
+div.wrapintro .btn{
+	background: #0066cc;
+	color: antiquewhite;
 }
