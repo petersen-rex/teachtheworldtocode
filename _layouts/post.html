@@ -107,11 +107,13 @@ post_class: post-template
             
             <!-- Begin Comments
             ================================================== -->
+            {% if !page.commentsoff %}
             <section>
             <div id="comments">                          
                 {% include disqus.html %} 
             </div>
             </section>
+            {% endif %}
             <!--End Comments
             ================================================== -->
             
