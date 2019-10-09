@@ -23,6 +23,9 @@ authors:
     twitter: https://twitter.com/OpenElastic
     description: "AWS cloud migration enabler."
 
+#Collections
+ - teammembers
+ 
 # Plugins
 plugins: 
   - jekyll-paginate
