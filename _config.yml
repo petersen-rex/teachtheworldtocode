@@ -18,10 +18,10 @@ authors:
     name: Rex
     display_name: Rex
     gravatar: 431ee30c3efced64c90d50a9165cba79
-    email: petersen.rex@gmail.com
-    web: http://www.openelastic.com
-    twitter: https://twitter.com/OpenElastic
-    description: "AWS cloud migration enabler."
+    email: rex@TeachTheWorldToCode.org
+    web: http://www.teachtheworldtocode.org
+    twitter: https://twitter.com/TeachTheWorldToCode
+    description: "Cofounder - TeachTheWorldToCode.org"
 
 #Collections
 collections:
