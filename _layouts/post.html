@@ -107,7 +107,7 @@ post_class: post-template
             
             <!-- Begin Comments
             ================================================== -->
-            {% if !page.commentsoff %}
+            {% if page.commentsoff!=true %}
             <section>
             <div id="comments">                          
                 {% include disqus.html %} 
