@@ -24,6 +24,7 @@ authors:
     description: "AWS cloud migration enabler."
 
 #Collections
+collections:
  - teammembers
  
 # Plugins
