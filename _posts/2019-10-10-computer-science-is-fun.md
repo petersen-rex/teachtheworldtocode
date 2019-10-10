@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Serverless Example"
-author: rex
-categories: [ AWS, Serverless, tutorial ]
-image: assets/images/1.jpg
+title:  "Computer science is fun!"
+categories: [ code, kids ]
+image: assets/images/testimonials/code-student-2.png
 featured: false
 ---
 This example demonstrates how to utilize a lambda function to provide `serverless` functionality in a `static web site`

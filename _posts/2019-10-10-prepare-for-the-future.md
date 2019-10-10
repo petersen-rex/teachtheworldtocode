@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: rex
-categories: [ aws, serverless ]
-image: assets/images/2.jpg
+title:  "Prepare kids for the future"
+categories: [ code, student ]
+image: assets/images/testimonials/code-mom-daughter.png
 featured: false
 
 ---
